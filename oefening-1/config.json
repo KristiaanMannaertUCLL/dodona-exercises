@@ -1,1 +1,11 @@
-
+{
+  "description": {
+    "names": {
+      "nl": "Oefening 1: Uitslapen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "pythia"
+  },
+  "visibility": "open"
+}
